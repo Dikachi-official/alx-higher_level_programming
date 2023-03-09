@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-from my_alpha import result
-print(result)
+import string
+print(string.ascii_uppercase)
