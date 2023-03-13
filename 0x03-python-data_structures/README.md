@@ -37,5 +37,33 @@
 	    <td>7-add_tuple.py</td>
 	    <td>A function that adds 2 tuples</td>
 	</tr>
+	<tr>
+	    <td>8-multiple_returns.py</td>
+	    <td>A functtion that returns a tuple with the length of  a string and its first character</td>
+	</tr>
+	<tr>
+	    <td>9-max_integer.py</td>
+	    <td>A function that finds the biggest integer in a list</td>
+	</tr>
+	<tr>
+	    <td>10-divisible_by_2.py</td>
+	    <td>A function that deletes he item at a specific position in alist</td>
+	</tr>
+	<tr>
+	    <td>11-delete_at.py</td>
+	    <td>A function that deletes the item at a specific position ina list</td>
+	</tr>
+	<tr>
+	    <td>12-switch.py</td>
+	    <td>Switching the values of (a) and (b)</td>
+	</tr>
+	<tr>
+	    <td>13-is_palindrome.c, lists.h</td>
+	    <td>A function in C that checks if a singly linked list is a palindrome</td>
+	</tr>
+	<tr>
+	    <td>100-print_python_list_info.c</td>
+	    <td>A C function that prints some basic info about Python lists</td>
+	</tr>
     </tbody>
 </table>
