@@ -29,6 +29,13 @@
             <td>5-no_c.py</td>
             <td>A function that removes all characters c and C from a string</td>
         </tr>
-
+	<tr>
+	    <td>6-print_matrix_integer.py</td>
+	    <td>A function that prints a matrix of integers</td>
+	</tr>
+	<tr>
+	    <td>7-add_tuple.py</td>
+	    <td>A function that adds 2 tuples</td>
+	</tr>
     </tbody>
 </table>
