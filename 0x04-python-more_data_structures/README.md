@@ -96,3 +96,6 @@ Without importing modules.
 16. CPython #1: PyBytesObject
 
 103-python.c: C functions that print basic information about Python lists and Python bytes objects.
+
+<h3>Author</he>
+<li>Dikachi-official</li>
