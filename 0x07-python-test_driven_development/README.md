@@ -27,19 +27,19 @@ File	Prototype
 <h2>Tasks 📃</h2>
 <h3>0. Integers addition</h3>
 
-0-add_integer.py: Python function that returns the integer addition of two numbers.
+<h4>0-add_integer.py:</h4> Python function that returns the integer addition of two numbers.
 If either of a or b is not an int or float, a TypeError is raised with the message a must be an integer or b must be an integer.
 If either of a or b is a float, it is casted to an int before addition.
-1. Divide a matrix
+<h4>1. Divide a matrix</h4>
 
-2-matrix_divided.py: Python function that divides all elements of a matrix by a common divisor.
+<h4>2-matrix_divided.py:</h4> Python function that divides all elements of a matrix by a common divisor.
 Returns a new matrix representing the division of all elements of matrix by div.
 Quotients are rounded to two decimal places.
 If matrix is not a list of lists of ints or floats, a TypeError is raised with the message matrix must be a matrix (list of lists) of integers/floats.
 If matrix contains rows of different lengths, a TypeError is raised with the message Each row of the matrix must have the same size.
 If the divisor div is not an int or float, a TypeError is raised with the message div must be a number.
 If div is 0, a ZeroDivisionError is raised with the message division by zero.
-2. Say my name
+<h4>2. Say my name</h4>
 
 3-say_my_name.py: Python function that prints a name in the format My name is <first_name> <last_name>.
 If either of first_name or last_name is not a str, a TypeError is raised with the message first_name must be a string or last_name must be a string.
