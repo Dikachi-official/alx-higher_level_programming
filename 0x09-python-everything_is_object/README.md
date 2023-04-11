@@ -10,7 +10,8 @@
 <li>Python tuples: immutable but potentially changing</li>
 
 <h2>Requirements</h2>
-<h3>Python Scripts</h3>
+<hr/>
+<h3>.Python Scripts</h3>
 <li>Allowed editors: vi, vim, emacs</li>
 <li>All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)</li>
 <li>All your files should end with a new line</li>
