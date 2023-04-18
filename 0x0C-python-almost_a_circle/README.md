@@ -1,9 +1,9 @@
-Python - Almost a circle
-Circle
+<h2>Python - Almost a circle</h2>
+<h4>Circle</h4>
 
-In this project, I encapsulated skills in Python object-oriented programming by coding three connected classes to represent rectangles and squares. I wrote my own test suite using the unittest module to test all functionality for each class.
+<p>In this project, I encapsulated skills in Python object-oriented programming by coding three connected classes to represent rectangles and squares. I wrote my own test suite using the unittest module to test all functionality for each class.</p>
 
-The three classes involved utilizing the following Python tools:
+<h5>The three classes involved utilizing the following Python tools:</h5>
 
 Import
 Exceptions
