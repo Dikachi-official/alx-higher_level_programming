@@ -37,7 +37,7 @@ The parameter list_objs is expected to be a list of Base-inherited instances.
 If list_objs is None, the function saves an empty list.
 The file is saved with the name <cls name>.json (ie. Rectangle.json)
 Overwrites the file if it already exists.
-Static method def from_json_string(json_string): that returns a list of objects deserialized from a JSON string.
+<strong>Static method def from_json_string(json_string):</strong> that returns a list of objects deserialized from a JSON string.
 The parameter json_string is expected to be a string representing a list of dictionaries.
 If json_string is None or empty, the function returns an empty list.</p>
 <strong>Class method def create(cls, **dictionary):</strong><p> that instantiates an object with provided attributes.
@@ -54,7 +54,8 @@ Serializes objects in the format <id>,<width>,<height>,<x>,<y> for Rectangle obj
 <strong>Class method def load_from_file_csv(cls):</strong> that returns a list of objects instantiated from a CSV file.
 Reads from the CSV file <cls name>.csv (ie. Rectangle.csv)
 If the file does not exist, the function returns an empty list.
-Static method def draw(list_rectangles, list_squares): that draws Rectangle and Square instances in a GUI window using the turtle module.
+<br/>
+<strong>Static method def draw(list_rectangles, list_squares):</strong> that draws Rectangle and Square instances in a GUI window using the turtle module.
 The parameter list_rectangles is expected to be a list of Rectangle objects to print.
 The parameter list_squares is expected to be a list of Square objects to print.
 Rectangle
