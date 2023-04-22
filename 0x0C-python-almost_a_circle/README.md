@@ -95,4 +95,5 @@ Public method def update(self, *args, **kwargs): that updates an instance of a S
 <li>4th: y</li>
 <p>**kwargs is expected to be a double pointer to a dictoinary of new key/value attributes to update the Square with.
 **kwargs is skipped if *args exists.
+<br/>
 <strong>Public method def to_dictionary(self):</strong> that returns the dictionary representation of a Square.</p>
