@@ -21,7 +21,8 @@ for row in query_rows:
     print(row)
 cur.close()
 conn.close()
-With an ORM:
+
+<strong>With an ORM:</strong>
 
 engine = create_engine('mysql+mysqldb://{}:{}@localhost/{}'.format("root", "root", "my_db"), pool_pre_ping=True)
 Base.metadata.create_all(engine)
@@ -36,7 +37,7 @@ session.close()
 
 <li>MySQLdb tutorial</li>
 
-<li>SQLAlchemy tutorial</li>li>
+<li>SQLAlchemy tutorial</li>
 
 <li>SQLAlchemy</li>
 
@@ -46,7 +47,7 @@ session.close()
 
 <li>Flask SQLAlchemy</li>
 
-<li>10 common stumbling blocks for SQLAlchemy newbies</li>li>
+<li>10 common stumbling blocks for SQLAlchemy newbies</li>
 
 <li>Python SQLAlchemy Cheatsheet</li>
 
