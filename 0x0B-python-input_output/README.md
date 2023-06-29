@@ -71,30 +71,30 @@
 >>>>>>> 5b0d6f78f1a2f77b4ae61fe27bf726bc1288af45
 <strong>9. Student to JSON</strong>
 
-9-student.py: Python class Student that defines a student. Includes:
+<p>9-student.py: Python class Student that defines a student. Includes:
 Public instance attributes first_name, last_name, and age.
 Instantiation with first_name, last_name, and age: def __init__(self, first_name, last_name, age):.
 Public method def to_json(self): that returns the dictionary representation of a Student instance.
 <<<<<<< HEAD
-=======
+=======</p>
 
 >>>>>>> 5b0d6f78f1a2f77b4ae61fe27bf726bc1288af45
 <strong>10. Student to JSON with filter</strong>
 
-10-student.py: Python class Student that defines a student. Builds on 11-student.py with:
+<p>10-student.py: Python class Student that defines a student. Builds on 11-student.py with:
 Public method def to_json(self, attrs=None): that returns the dictionary representation of a Student instance.
 If attrs is a list of strings, only the attributes listed are represented in the dictionary.
 <<<<<<< HEAD
-=======
+=======</p>
 
 >>>>>>> 5b0d6f78f1a2f77b4ae61fe27bf726bc1288af45
 <strong>11. Student to disk and reload</strong>
 
-11-student.py: Python class Student that defines a student. Builds on 12-student.py with:
+<p>11-student.py: Python class Student that defines a student. Builds on 12-student.py with:
 Public method def reload_from_json(self, json): that replaces all attributes of the Student instance using the key/value pairs listed in json.
 The method assumes json is a dictionary containing attributes with name/value corresponding to key/value.
 <<<<<<< HEAD
-=======
+=======</p>
 
 >>>>>>> 5b0d6f78f1a2f77b4ae61fe27bf726bc1288af45
 <strong>12. Pascal's Triangle</strong>
