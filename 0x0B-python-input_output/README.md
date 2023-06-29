@@ -98,11 +98,10 @@ The method assumes json is a dictionary containing attributes with name/value co
 
 >>>>>>> 5b0d6f78f1a2f77b4ae61fe27bf726bc1288af45
 <strong>12. Pascal's Triangle</strong>
-
-12-pascal_triangle.py: Python function that returns a list of lists of integers representing Pascal's triangle of size n.
+<p>12-pascal_triangle.py: Python function that returns a list of lists of integers representing Pascal's triangle of size n.
 Assumes the size parameter n is an integer.
 If n is less than or equal to 0, returns an empty list.
-<<<<<<< HEAD
+<<<<<<< HEAD</p>
 <strong>13. Search and update</strong>
 
 100-append_after.py: Python function that inserts a line of text to a file after each line containing a specified string.
