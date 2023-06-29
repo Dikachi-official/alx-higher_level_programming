@@ -32,8 +32,8 @@
 7-add_item.py: Python script that stores all command line arguments to a Python list saved in the file add_item.json.
 <strong>8. Class to JSON</strong>
 
-8-class_to_json.py: Python function that returns the dictionary description for simple Python data structures (lists, dictionaries, strings, integers and booleans).
-=======
+<p>8-class_to_json.py: Python function that returns the dictionary description for simple Python data structures (lists, dictionaries, strings, integers and booleans).
+=======</p>
 0-read_file.py: Python function that prints the contents of a UTF8 text file to standard output.
 
 <strong>1. Write to a file</strong>
