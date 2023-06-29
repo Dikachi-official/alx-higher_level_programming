@@ -104,8 +104,8 @@ If n is less than or equal to 0, returns an empty list.
 <<<<<<< HEAD</p>
 <strong>13. Search and update</strong>
 
-100-append_after.py: Python function that inserts a line of text to a file after each line containing a specified string.
-=======
+<p>100-append_after.py: Python function that inserts a line of text to a file after each line containing a specified string.
+=======</p>
 
 <strong>13. Search and update</strong>
 
