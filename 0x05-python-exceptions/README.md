@@ -1,4 +1,4 @@
-<h1>Tasks 📃</h1>
+<h2>Tasks 📃</h2>
 <h3>0. Safe list printing</h3>
 
 <p>0-safe_print_list.py: Python function that prints x elements of a list on the same line, followed by a new line.
