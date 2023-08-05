@@ -1,4 +1,4 @@
-<h1>0x09. Python - Everything is object</h1>
+<h2>0x09. Python - Everything is object</h2>
 <h2>Resources</h2>
 <hr/>
 
