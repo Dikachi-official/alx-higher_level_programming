@@ -1,4 +1,4 @@
-<h1>Python - More Classes and Objects</h1>
+<h2>Python - More Classes and Objects</h2>
 In this project, I continued to practice object-oriented programming in Python. I learned about class methods, static methods, class vs instance attributes, andbhow to use the special __str__ and __repr__ methods.
 
 Tests ✔️
