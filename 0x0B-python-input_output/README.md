@@ -11,7 +11,7 @@
 <strong>0-read_file.py:</strong> Python function that prints the contents of a UTF8 text file to standard output.
 <strong>1. Write to a file</strong>
 
-1-write_file.py: Python function that writes a string to a UTF8 text file and returns the number of characters written.
+<strong>1-write_file.py:</strong> Python function that writes a string to a UTF8 text file and returns the number of characters written.
 <strong>2. Append to a file</strong>
 
 2-append_write.py: Python function that appends a string to the end of a UTF8 text file and returns the number of characters appended.
