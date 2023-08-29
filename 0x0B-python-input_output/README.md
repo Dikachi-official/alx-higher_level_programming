@@ -17,7 +17,7 @@
 <strong>2-append_write.py:</strong> Python function that appends a string to the end of a UTF8 text file and returns the number of characters appended.
 <strong>3. To JSON string</strong>
 
-3-to_json_string.py: Python function that returns the JSON string representation of an object.
+<strong>3-to_json_string.py:</strong> Python function that returns the JSON string representation of an object.
 <strong>4. From JSON string to Object</strong>
 
 4-from_json_string.py: Python function that returns the Python object represented by a JSON string.
