@@ -23,7 +23,8 @@
 <strong>4-from_json_string.py:</strong> Python function that returns the Python object represented by a JSON string.
 <strong>5. Save Object to a file</strong>
 
-5-save_to_json_file.py: Python function that writes an object to a text file using JSON representation.
+<strong>5-save_to_json_file.py:</strong>
+Python function that writes an object to a text file using JSON representation.
 <strong>6. Create object from a JSON file</strong>
 
 6-load_from_json_file.py: Python function that creates an object from a .json file.
