@@ -27,7 +27,7 @@
 Python function that writes an object to a text file using JSON representation.
 <strong>6. Create object from a JSON file</strong>
 
-6-load_from_json_file.py: Python function that creates an object from a .json file.
+<strong>6-load_from_json_file.py:</strong> Python function that creates an object from a .json file.
 <strong>7. Load, add, save</strong>
 
 7-add_item.py: Python script that stores all command line arguments to a Python list saved in the file add_item.json.
