@@ -35,7 +35,7 @@ Python function that writes an object to a text file using JSON representation.
 
 <strong>8-class_to_json.py:</strong> Python function that returns the dictionary description for simple Python data structures (lists, dictionaries, strings, integers and booleans).
 =======</p>
-0-read_file.py: Python function that prints the contents of a UTF8 text file to standard output.
+<strong>0-read_file.py:</strong> Python function that prints the contents of a UTF8 text file to standard output.
 
 <strong>1. Write to a file</strong>
 
