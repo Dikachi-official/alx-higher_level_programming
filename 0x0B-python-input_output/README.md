@@ -39,7 +39,7 @@ Python function that writes an object to a text file using JSON representation.
 
 <strong>1. Write to a file</strong>
 
-1-write_file.py: Python function that writes a string to a UTF8 text file and returns the number of characters written.
+<strong>1-write_file.py:</strong> Python function that writes a string to a UTF8 text file and returns the number of characters written.
 
 <strong>2. Append to a file</strong>
 
