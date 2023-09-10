@@ -43,7 +43,7 @@ Python function that writes an object to a text file using JSON representation.
 
 <strong>2. Append to a file</strong>
 
-2-append_write.py: Python function that appends a string to the end of a UTF8 text file and returns the number of characters appended.
+<strong>2-append_write.py:</strong> Python function that appends a string to the end of a UTF8 text file and returns the number of characters appended.
 
 <strong>3. To JSON string</strong>
 
