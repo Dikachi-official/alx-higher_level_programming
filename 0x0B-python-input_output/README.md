@@ -51,7 +51,7 @@ Python function that writes an object to a text file using JSON representation.
 
 <strong>4. From JSON string to Object</strong>
 
-4-from_json_string.py: Python function that returns the Python object represented by a JSON string.
+<strong>4-from_json_string.py:</strong> Python function that returns the Python object represented by a JSON string.
 
 <strong>5. Save Object to a file</strong>
 
