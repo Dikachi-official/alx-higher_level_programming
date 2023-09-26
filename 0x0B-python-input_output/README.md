@@ -67,7 +67,7 @@ Python function that writes an object to a text file using JSON representation.
 
 <strong>8. Class to JSON</strong>
 
-8-class_to_json.py: Python function that returns the dictionary description for simple Python data structures (lists, dictionaries, strings, integers and booleans).
+<strong>8-class_to_json.py:</strong> Python function that returns the dictionary description for simple Python data structures (lists, dictionaries, strings, integers and booleans).
 
 >>>>>>> 5b0d6f78f1a2f77b4ae61fe27bf726bc1288af45
 <strong>9. Student to JSON</strong>
